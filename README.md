@@ -1,55 +1,47 @@
-# Md Shafi Ud Doula — Personal Website
+# Hi there 👋 I'm Md Shafi Ud Doula
 
-A modern, responsive personal portfolio website built with pure HTML, CSS, and JavaScript. Designed for hosting on **GitHub Pages**.
+**Senior AI R&D Engineer** at Deloitte Tohmatsu LLC, Tokyo, Japan 🇯🇵
 
-## 🌐 Live Site
+🌐 **[Visit My Website →](https://shaficse.github.io/shafi/)**
 
-Visit: [https://mdshafiudoula.github.io/git-personal-web-site/](https://mdshafiudoula.github.io/git-personal-web-site/)
+---
 
-## ✨ Features
+## 🧑‍💻 About Me
 
-- **Responsive Design** — Works on all devices (mobile, tablet, desktop)
-- **Animated Hero Section** — Particle effects and gradient animations
-- **Interactive Timeline** — Work experience presented chronologically
-- **Filterable Project Gallery** — Filter by category (GenAI, NLP, CV, ML, Cloud)
-- **Publications Section** — Academic papers and conference presentations
-- **Skills Visualization** — Interactive skill tags and language proficiency bars
-- **Scroll Animations** — Smooth fade-in effects as you scroll
-- **No Build Tools Required** — Pure HTML/CSS/JS, ready for GitHub Pages
+- 🔬 8+ years of experience in **Document Intelligence, GenAI, NLP, Computer Vision & Vision-Language Models**
+- 🎓 **M.Eng. in Data Science & AI** — Asian Institute of Technology, Thailand (🏆 Best Thesis Award)
+- 🎓 **B.Sc. in Computer Science & Engineering** — Begum Rokeya University, Bangladesh
+- 🏆 **Best Employee Award 2024** (Culture & Inclusion) — Deloitte
+- 📝 Open-source contributor to **Bangla Treebank** (Universal Dependencies)
 
-## 🚀 Deployment on GitHub Pages
+## 🔭 Current Roles
 
-1. Create a new repository on GitHub (e.g., `git-personal-web-site` or `mdshafiudoula.github.io`)
-2. Push this code to the repository:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit - personal website"
-   git branch -M main
-   git remote add origin https://github.com/mdshafiudoula/git-personal-web-site.git
-   git push -u origin main
-   ```
-3. Go to **Settings → Pages** in your GitHub repository
-4. Under **Source**, select `main` branch and `/ (root)` folder
-5. Click **Save** — your site will be live in a few minutes!
+- **Senior AI R&D Engineer** @ Deloitte Tohmatsu LLC (2023–Present)
+- **Guest Lecturer** @ Dept. of CSE, Begum Rokeya University (2025–Present)
+- **Researcher** @ Smart Data Lab, Asian Institute of Technology (2024–Present)
 
-## 📁 File Structure
+## 🛠️ Tech Stack
 
-```
-├── index.html      # Main HTML file
-├── style.css       # All styles
-├── script.js       # Interactivity (particles, filters, animations)
-├── README.md       # This file
-└── .nojekyll       # Tells GitHub Pages not to process with Jekyll
-```
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-## 🎨 Customization
+## � Areas of Expertise
 
-- **Profile Photo**: Replace the brain icon in the hero section with an `<img>` tag pointing to your photo
-- **GitHub Links**: Update repository URLs in `index.html` to match your actual GitHub username
-- **Social Links**: Update ORCID, LinkedIn, and GitHub profile URLs
-- **Colors**: Modify CSS variables in `:root` at the top of `style.css`
+`GenAI` `LLMs` `RAG` `Agentic AI` `NLP` `Computer Vision` `OCR/ICR` `Vision-Language Models` `Document AI` `Cloud (AWS/GCP)`
 
-## 📄 License
+## 📫 Connect with Me
 
-© 2026 Md Shafi Ud Doula. All rights reserved.
+[![Website](https://img.shields.io/badge/-Website-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shaficse.github.io/shafi/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafi-doula-157063150)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-6948-7768)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdshafiud.doula@alumni.ait.asia)
+
+---
+
+⭐ **[Check out my full portfolio →](https://shaficse.github.io/shafi/)**
